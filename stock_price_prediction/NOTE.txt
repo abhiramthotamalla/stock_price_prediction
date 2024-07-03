@@ -1,0 +1,2 @@
+agambgmail@gmail.com
+streamlit run app.py
